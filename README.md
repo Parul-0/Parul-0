@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm PARUL 👋
 
 ### 🎓 MCA Student & Aspiring Java Backend Developer
 I am currently in my first semester of MCA, focusing on mastering Core Java, Data Structures, and Backend Development. I am documenting my 5-month journey from "Basics" to "Internship-Ready."
