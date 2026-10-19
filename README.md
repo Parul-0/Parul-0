@@ -34,9 +34,9 @@ I am currently in my first semester of MCA, focusing on mastering Core Java, Dat
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Insert Link]
-- **Portfolio/Blog:** [Optional]
-- **Email:** [Your Email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parul0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.parul.39@gmail.com)
+<!--- **Portfolio/Blog:** [Optional] -->
 
 ---
 
